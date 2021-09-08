@@ -19,9 +19,9 @@ int main()
     for(int i=0;i<strlen(string);i++){                  
         for(int j=i+1;j<strlen(string);j++){
 
-            if(string[i]==string[j]){  
+            if(string[i]==string[j]){
                 
-                  cout<<string[i]<<" "<<c<<endl;                
+                  cout<<string[i]<<endl;                
 
                               
 
