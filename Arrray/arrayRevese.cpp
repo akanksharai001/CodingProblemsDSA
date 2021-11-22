@@ -15,7 +15,7 @@ int main(){
     int end=n-1;
     while(start<=end){
         swap(a[start],a[end]);
-        start++;
+        start++; 
         end--;
     }
     cout<<endl;
